@@ -4,6 +4,7 @@ public class Person {
 	public static void main(String[] args) {
 		//冲突来了
 		//测试冲突
+		//hotfix 测试合并
 	}
 	
 }
